@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+
+        <!-- Going to start by adding the login credentials for the DB -->
+        <!-- <property name="connection.username"/> -->
+        <!-- <property name="connection.password"/> -->
+        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.connection.password">postgres</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://database-1.ckzwqkaet9g9.us-east-2.rds.amazonaws.com:5432/postgres?currentSchema="Banking_Application"</property>
+
+        <!-- Second, we are going to add DB/JDBC driver information to establish connectivity and persistent to our application  -->
+        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+
+        <property name="hibernate.show_sql">false</property>
+        <property name="hibernate.format_sql">false</property>
+
+        <property name="hibernate.connection.pool_size">10</property>
+
+        <property name="hibernate.hbm2ddl.auto">update</property>
+
+        <!-- Class mapping (Hibernate ORM functionality) starts here -->
+        <mapping class="com.bank.models.User"/>
+        <mapping class="com.bank.models.Role"/>
+    </session-factory>
+</hibernate-configuration>
