@@ -21,7 +21,7 @@
 
         <property name="hibernate.connection.pool_size">10</property>
 
-        <property name="hibernate.hbm2ddl.auto">update</property>
+        <property name="hibernate.hbm2ddl.auto">validate</property>
 
         <!-- Class mapping (Hibernate ORM functionality) starts here -->
         <mapping class="com.bank.models.User"/>
