@@ -1,0 +1,275 @@
+2021-02-07 01:12:59 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:12:59 ERROR UserDaoImplementation:63 - 
+Error (Insert Operation): Insert SQL statement failed to execute.
+2021-02-07 01:12:59 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:18:52 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:18:52 ERROR UserDaoImplementation:62 - 
+Error (Insert Operation): Insert SQL statement failed to execute.
+2021-02-07 01:18:52 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:20:30 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:20:30 ERROR UserDaoImplementation:58 - 
+Error (Insert Operation): Insert SQL statement failed to execute.
+2021-02-07 01:20:31 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:25:18 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:25:18 ERROR UserDaoImplementation:58 - 
+Error (Insert Operation): Insert SQL statement failed to execute.
+2021-02-07 01:25:18 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:43:05 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:43:05 ERROR UserDaoImplementation:58 - 
+Error (Insert Operation): Insert SQL statement failed to execute.
+2021-02-07 01:43:05 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:44:30 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:44:30 ERROR UserDaoImplementation:58 - 
+Error (Insert Operation): Insert SQL statement failed to execute.
+2021-02-07 01:44:30 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:57:10 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:57:10 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 01:57:10 WARN  UserDaoImplementation:113 - Error (SELECT ALL): Failed to complete SELECT ALL SQL statement.
+2021-02-07 02:04:35 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-07 02:04:35 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 20:44:08 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 20:44:31 WARN  UserService:137 - Error: user did not enter a numeric type used to pick an account type.
+2021-02-08 20:44:43 WARN  UserService:137 - Error: user did not enter a numeric type used to pick an account type.
+2021-02-08 20:44:44 WARN  UserService:137 - Error: user did not enter a numeric type used to pick an account type.
+2021-02-08 20:46:14 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 20:46:14 ERROR UserDaoImplementation:58 - 
+Error (Insert Operation): Insert SQL statement failed to execute.
+2021-02-08 20:49:28 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 20:49:38 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 20:49:38 WARN  AccountDaoImplementation:39 - 
+2021-02-08 21:02:10 WARN  UserService:106 - The user did not choose a valid account type.
+2021-02-08 21:02:10 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:02:10 ERROR UserDaoImplementation:58 - 
+Error (Insert Operation): Insert SQL statement failed to execute.
+2021-02-08 21:09:32 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:09:46 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:09:46 WARN  AccountDaoImplementation:37 - 
+2021-02-08 21:21:11 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:21:15 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:21:15 WARN  AccountDaoImplementation:38 - 
+2021-02-08 21:28:00 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:28:08 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:28:08 WARN  AccountDaoImplementation:40 - 
+2021-02-08 21:29:45 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:29:49 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:29:49 WARN  AccountDaoImplementation:40 - 
+2021-02-08 21:40:29 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:40:33 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:40:33 WARN  AccountDaoImplementation:39 - 
+2021-02-08 21:42:01 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:42:03 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:42:03 WARN  AccountDaoImplementation:39 - 
+2021-02-08 21:43:15 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:43:17 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:43:17 WARN  AccountDaoImplementation:39 - 
+2021-02-08 21:55:42 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:55:49 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:55:49 WARN  AccountDaoImplementation:38 - 
+2021-02-08 21:57:04 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:57:15 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-08 21:57:15 WARN  AccountDaoImplementation:38 - 
+2021-02-09 10:00:03 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 10:00:07 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 10:00:07 WARN  AccountDaoImplementation:38 - Error (SQL Account): Account information failed to insert data into the database.
+2021-02-09 10:08:17 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 10:08:21 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 10:08:21 WARN  AccountDaoImplementation:38 - Error (SQL Account): Account information failed to insert data into the database.
+2021-02-09 10:08:43 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 10:08:43 WARN  AccountDaoImplementation:38 - Error (SQL Account): Account information failed to insert data into the database.
+2021-02-09 10:31:33 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 10:31:38 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 10:31:38 WARN  Driver:45 - Error (SQL Account): Account information failed to insert data into the database.
+2021-02-09 10:42:47 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 10:42:47 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 10:42:51 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 11:36:25 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 11:36:25 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 11:36:29 INFO  JDBConnection:51 - Successful: Connection to Postgres SQL established.
+2021-02-09 18:27:24 WARN  UserService:88 - The user did not choose a valid account type.
+2021-02-09 18:27:25 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-09 18:27:25 ERROR UserDaoImplementation:58 - 
+Error (Insert Operation): Insert SQL statement failed to execute.
+2021-02-09 18:27:25 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-09 18:28:58 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-09 18:28:58 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-09 18:29:10 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-09 18:29:41 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-09 18:30:47 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-09 18:30:47 WARN  AccountDaoImplementation:277 - 
+Account status has been changed.
+2021-02-09 18:59:17 WARN  Menu:50 - Error: Invalid input
+2021-02-09 19:02:10 WARN  Menu:52 - Error: Invalid input
+2021-02-09 19:02:19 WARN  Menu:52 - Error: Invalid input
+2021-02-09 19:19:57 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-09 19:19:57 INFO  UserService:37 - Authorized: Account Sign In Successful.
+2021-02-10 11:32:53 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 11:32:53 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 11:32:57 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 11:38:04 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 11:38:04 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 11:38:15 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 11:39:47 WARN  UserService:117 - The user did not choose a valid account type.
+2021-02-10 11:39:47 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 11:39:47 ERROR UserDaoImplementation:58 - 
+Error (Insert Operation): Insert SQL statement failed to execute.
+2021-02-10 11:39:47 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 11:43:59 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 11:43:59 WARN  AccountDaoImplementation:40 - Error (SQL Account): Account information failed to insert data into the database.
+2021-02-10 11:45:53 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 11:45:53 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 11:46:01 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:30:18 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:30:18 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:30:22 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:32:08 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:32:08 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:32:14 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:53:11 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:53:11 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:53:11 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 13:53:15 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:53:15 INFO  UserDaoImplementation:216 - Successful: You email was changed to: 
+2021-02-10 13:53:15 WARN  UserDaoImplementation:220 - Error (SQL USER): The query to change user's email failed.
+2021-02-10 13:54:19 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:54:19 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:54:19 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 13:54:21 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:54:21 INFO  UserDaoImplementation:216 - Successful: You email was changed to: 
+2021-02-10 13:54:21 WARN  UserDaoImplementation:220 - Error (SQL USER): The query to change user's email failed.
+2021-02-10 13:55:19 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:55:19 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:55:19 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 13:55:27 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:55:27 INFO  UserDaoImplementation:216 - Successful: You email was changed to: 
+2021-02-10 13:55:27 WARN  UserDaoImplementation:220 - Error (SQL USER): The query to change user's email failed.
+2021-02-10 13:56:12 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:56:12 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:56:12 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 13:56:17 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:56:17 INFO  UserDaoImplementation:216 - Successful: You email was changed to: 
+2021-02-10 13:56:17 WARN  UserDaoImplementation:220 - Error (SQL USER): The query to change user's email failed.
+2021-02-10 13:57:45 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:57:45 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:57:45 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 13:57:48 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 13:57:48 INFO  UserDaoImplementation:216 - Successful: You email was changed to: 
+2021-02-10 13:57:48 WARN  UserDaoImplementation:220 - Error (SQL USER): The query to change user's email failed.
+2021-02-10 14:00:06 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:00:06 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:00:06 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 14:00:15 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:00:15 INFO  UserDaoImplementation:216 - Successful: You email was changed to: 
+2021-02-10 14:00:15 WARN  UserDaoImplementation:220 - Error (SQL USER): The query to change user's email failed.
+2021-02-10 14:02:33 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:02:33 INFO  UserDaoImplementation:216 - Successful: You email was changed to: 
+2021-02-10 14:02:33 WARN  UserDaoImplementation:220 - Error (SQL USER): The query to change user's email failed.
+2021-02-10 14:05:00 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:05:00 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:05:00 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 14:05:03 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:05:03 INFO  UserDaoImplementation:216 - Successful: You email was changed to: 
+2021-02-10 14:05:03 WARN  UserDaoImplementation:220 - Error (SQL USER): The query to change user's email failed.
+2021-02-10 14:08:47 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:08:47 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:08:47 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 14:08:49 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:08:49 INFO  UserDaoImplementation:216 - Successful: You email was changed to: 
+2021-02-10 14:09:00 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:09:00 INFO  UserDaoImplementation:216 - Successful: You email was changed to: 
+2021-02-10 14:10:25 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:10:25 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:10:25 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 14:11:08 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:11:08 INFO  UserDaoImplementation:216 - Successful: You email was changed to: bettyrevature@revature.net
+2021-02-10 14:11:13 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:11:13 INFO  AccountDaoImplementation:349 - Successful: User balance retrieved
+2021-02-10 14:11:23 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:11:23 INFO  AccountDaoImplementation:255 - Successful: Account balance has been updated
+2021-02-10 14:11:23 INFO  UserService:236 - Successful: User has deposited money into their account.
+2021-02-10 14:11:26 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:11:26 INFO  AccountDaoImplementation:349 - Successful: User balance retrieved
+2021-02-10 14:11:38 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:11:38 INFO  AccountDaoImplementation:255 - Successful: Account balance has been updated
+2021-02-10 14:11:41 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:11:41 INFO  AccountDaoImplementation:349 - Successful: User balance retrieved
+2021-02-10 14:20:34 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:20:35 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:20:35 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 14:20:51 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:20:51 INFO  AccountDaoImplementation:255 - Successful: Account balance has been updated
+2021-02-10 14:20:57 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:20:57 INFO  AccountDaoImplementation:349 - Successful: User balance retrieved
+2021-02-10 14:25:45 WARN  UserService:223 - Error (Invalid Option Menu): User entered an invalid option in the user menu.
+2021-02-10 14:25:53 WARN  UserService:223 - Error (Invalid Option Menu): User entered an invalid option in the user menu.
+2021-02-10 14:45:48 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:45:48 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:45:48 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 14:46:05 INFO  JDBConnection:53 - Successful: Connection to Postgres SQL established.
+2021-02-10 14:46:05 WARN  AccountDaoImplementation:285 - 
+Account has been deactivated.
+2021-02-10 19:44:49 ERROR JDBConnection:44 - 
+Error (File Not Found): The application did not connect to the Postgres database.
+2021-02-10 19:44:49 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:45:37 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:45:37 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:45:37 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 19:45:37 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:45:37 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:45:43 INFO  UserService:336 - Successful: Retrieved all users from World Bank database.
+2021-02-10 19:46:11 INFO  UserService:328 - Successful: All users and their accounts have been deleted.
+2021-02-10 19:46:11 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:46:11 INFO  AdminDaoImplementation:35 - WORLD BANK: ALL USERS FROM THE DATA BASE HAVE BEEN DELETED.
+2021-02-10 19:47:53 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:47:53 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:47:56 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:56:52 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:56:52 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:56:58 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:58:43 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:58:43 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 19:58:46 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:03:30 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:03:30 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:03:34 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:07:58 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:07:58 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:08:15 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:08:59 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:08:59 INFO  AccountDaoImplementation:255 - Successful: Account balance has been updated
+2021-02-10 20:08:59 INFO  UserService:238 - Successful: User has deposited money into their account.
+2021-02-10 20:09:14 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:09:14 INFO  AccountDaoImplementation:255 - Successful: Account balance has been updated
+2021-02-10 20:09:28 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:09:28 INFO  AccountDaoImplementation:350 - Successful: User balance retrieved
+2021-02-10 20:15:09 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:15:09 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:15:42 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:22:27 INFO  Menu:48 - Logged off world banking application.
+2021-02-10 20:23:38 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:23:38 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:23:43 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:24:25 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:24:25 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:24:25 INFO  UserService:39 - Authorized: Account Sign In Successful.
+2021-02-10 20:24:30 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:24:30 INFO  AccountDaoImplementation:350 - Successful: User balance retrieved
+2021-02-10 20:24:46 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:24:46 INFO  AccountDaoImplementation:255 - Successful: Account balance has been updated
+2021-02-10 20:24:46 INFO  UserService:238 - Successful: User has deposited money into their account.
+2021-02-10 20:24:47 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:24:47 INFO  AccountDaoImplementation:350 - Successful: User balance retrieved
+2021-02-10 20:24:56 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:24:56 INFO  AccountDaoImplementation:350 - Successful: User balance retrieved
+2021-02-10 20:25:28 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:25:28 INFO  AccountDaoImplementation:255 - Successful: Account balance has been updated
+2021-02-10 20:25:30 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:25:30 INFO  AccountDaoImplementation:350 - Successful: User balance retrieved
+2021-02-10 20:27:15 INFO  JDBConnection:57 - Successful: Connection to WORLD BANK database established.
+2021-02-10 20:27:15 INFO  UserDaoImplementation:215 - Successful: You email was changed to: juanrocks@gmail.com
+2021-02-10 20:27:22 INFO  Menu:48 - Logged off world banking application.
+2021-02-10 20:35:02 WARN  Menu:54 - Error: Invalid input
+2021-02-10 20:36:29 WARN  Menu:54 - Error: Invalid input
+2021-02-10 20:36:30 WARN  Menu:54 - Error: Invalid input
+2021-02-10 20:36:31 WARN  Menu:54 - Error: Invalid input
+2021-02-10 20:36:32 WARN  Menu:54 - Error: Invalid input
+2021-02-10 20:36:36 INFO  Menu:48 - Logged off world banking application.
