@@ -1,7 +1,7 @@
 # Banking Application
 
 ## Introduction
-By leveraging Java 8, I developed an application that simulates simple banking transactions through the termianl/console. User's of the application can access the applicaiton by downloading the source code and running the program locally. The program only takes input from the terminal and displays output from the terminal.
+By leveraging Java 8, I developed an application that simulates simple banking transactions through the terminal/console. Users of the application can access the application by downloading the source code and running the program locally. The program only takes input from the terminal and displays output from the terminal.
 
 ## Banking Applicaiton Functionality
 *	Built the application using Java 8
@@ -35,13 +35,15 @@ By leveraging Java 8, I developed an application that simulates simple banking t
 * Java 8
 * SQL
 * Postgres Database
-* JDBC and AWS Relation Database Instance 
+* JDBC
+* AWS Relation Database Instance 
 * L4j Logging
 * JUnit (Testing)
 * Mockito (Database testing)
 * Maven
+* GitHub
 
 
-## Softwares Tools Used
+## Software Tools Used
 * Eclipse
 * DBeaver
