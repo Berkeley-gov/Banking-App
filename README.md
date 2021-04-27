@@ -1,9 +1,9 @@
 # Banking Application
 
-**Description**
+**Introductionn**
 By leveraging Java 8, I developed an application that simulates simple banking transactions through the termianl/console
 
-**Project Description**
+**Banking Applicaiton Functionality**
 *	Buillt the application using Java 8
 *	All interaction with the user is done through the console using the `Scanner` class
 *	Customers of the bank are able to register with a username and password, and apply to open an account. 
@@ -34,4 +34,5 @@ By leveraging Java 8, I developed an application that simulates simple banking t
 
 
 **Softwares Used**
-* IntelliJ
+* Eclipse
+* DBeaver
