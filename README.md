@@ -39,6 +39,7 @@ By leveraging Java 8, I developed an application that simulates simple banking t
 * L4j Logging
 * JUnit (Testing)
 * Mockito (Database testing)
+* Maven
 
 
 ## Softwares Tools Used
