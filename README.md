@@ -31,7 +31,7 @@ By leveraging Java 8, I developed an application that simulates simple banking t
     * All transactions should be logged
 
 
-## Technoligies Used Project
+## Technologies Used to Build Project
 * Java 8
 * SQL
 * Postgres Database
