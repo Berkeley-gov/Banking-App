@@ -3,7 +3,7 @@
 ## Introduction
 By leveraging Java 8, I developed an application that simulates simple banking transactions through the terminal/console. Users of the application can access the application by downloading the source code and running the program locally. The program only takes input from the terminal and displays output from the terminal.
 
-## Banking Applicaiton Functionality
+## Banking Application Functionality
 *	Built the application using Java 8
 *	All interaction with the user is done through the console using the `Scanner` class
 *	Customers of the bank are able to register with a username and password, and apply to open an account. 
